@@ -1,0 +1,11 @@
+You can also run the code to view the test results.
+
+Test scenarios covered:
+
+1) Creating an existing key
+2) Creating a new valid key
+3) Creating an invalid key 
+4) Reading a non existing key 
+5) Reading an existing key 
+6) Deleting a non existing key 
+7) Deleting an existing key 
